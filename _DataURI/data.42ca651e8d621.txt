@@ -1,1 +1,0 @@
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/content_scripts/ch-content-script-dend.js
